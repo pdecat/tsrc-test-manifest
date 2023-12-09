@@ -1,0 +1,4 @@
+repos:
+  - url: git@github.com:your-tools/tsrc.git
+    dest: tsrc
+    branch: main
